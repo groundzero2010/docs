@@ -39,4 +39,4 @@ You may add as many banners to the banner as necessary. Under [Modules](docs/use
 ![Carousel frond end](_images/banners-front.png)
 
 
-It its a advised that you test the links by clicking on the images on the banner. If the clicks do not direct the user to the manufacturer location, double check to see if the page address was typed in correctly in the administration.
+It's advised that you test the links by clicking on the images on the banner. If the clicks do not direct the user to the manufacturer location, double check to see if the page address was typed in correctly in the administration.
